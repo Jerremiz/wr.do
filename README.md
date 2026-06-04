@@ -18,6 +18,8 @@
   <!-- <img width="15" src="https://storage.wr.do/2025/11/20/561763627504_.pic.jpg" /> 免费体验 Sora AI 视频生成 👉 <a href="https://sora.hk/i/5KY5N1FL">点击注册</a> -->
 </div>
 
+<img align="center" width="50%" alt="og-banner" src="https://github.com/user-attachments/assets/b338bfca-71ed-447a-bde5-18e5677cb8dc" />
+
 > 🌟 推荐 **Claude Code** 稳定 API 渠道：[nbility.dev](https://nbility.dev/register?aff=Dptp) ，支持 claude-opus-4-6 等主流 AI Coding 大模型🥳
 
 ## 版本说明
